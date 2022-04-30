@@ -1,3 +1,3 @@
 # inventoryProject
 
-# This is my fisrt PHP project
+#This is my fisrt PHP project
